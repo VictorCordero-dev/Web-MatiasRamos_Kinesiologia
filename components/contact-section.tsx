@@ -106,7 +106,7 @@ export function ContactSection() {
                   <Instagram className="w-6 h-6 text-red-500" />
                 </a>
                 <a
-                  href="https://facebook.com/quiropraxiamatiasramos"
+                  href="https://facebook.com/matias.ramos1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-blue-500/10 rounded-full flex items-center justify-center hover:bg-accent/20 transition-colors"

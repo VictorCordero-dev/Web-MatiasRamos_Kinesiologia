@@ -13,9 +13,9 @@ export default function Home() {
       <HeroSection />
       <ServicesNavigation />
       <QuiropraxiaSection />
+      <FAQSection />
       <FisioterapiaSection />
       <PlantillasSection />
-      <FAQSection />
       <ContactSection />
       <Footer />
     </main>

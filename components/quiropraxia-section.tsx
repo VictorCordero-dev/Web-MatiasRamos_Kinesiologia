@@ -71,9 +71,6 @@ export function QuiropraxiaSection() {
                 "Dolor lumbar y ciática",
                 "Cervicalgia y tortícolis",
                 "Hernias discales",
-                "Escoliosis",
-                "Dolor de hombros",
-                "Lesiones deportivas",
               ].map((condition, index) => (
                 <Card key={index}>
                   <CardContent className="p-4">

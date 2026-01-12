@@ -6,7 +6,7 @@ export function Footer() {
           <div>
             <h3 className="text-2xl font-bold mb-4">Quiropraxia Matías Ramos</h3>
             <p className="text-primary-foreground/80 leading-relaxed">
-              Centro de bienestar integral especializado en quiropraxia y fisioterapia. Tu salud en manos expertas.
+              Centro de bienestar especializado en quiropraxia y fisioterapia. Tu salud en manos expertas.
             </p>
           </div>
 

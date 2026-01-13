@@ -51,7 +51,7 @@ export function ContactSection() {
                       rel="noopener noreferrer"
                       className="text-primary hover:underline text-lg"
                     >
-                      +54 3878687637
+                      +54 3878525806
                     </a>
                     <p className="text-sm text-muted-foreground mt-1">Respuesta rápida por WhatsApp</p>
                   </div>

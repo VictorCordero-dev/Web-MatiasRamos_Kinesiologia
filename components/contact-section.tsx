@@ -20,7 +20,7 @@ export function ContactSection() {
     e.preventDefault()
     // Create WhatsApp message
     const message = `Hola! Mi nombre es ${formData.name}. ${formData.message}`
-    const whatsappUrl = `https://wa.me/543878687637?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/543878525806?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
@@ -46,7 +46,7 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold mb-2">WhatsApp</h3>
                     <a
-                      href="https://wa.me/543878687637"
+                      href="https://wa.me/543878525806"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-primary hover:underline text-lg"
@@ -72,7 +72,7 @@ export function ContactSection() {
                     <p className="text-muted-foreground">--------------------</p>
                     <p className="text-sm text-muted-foreground mt-1">Embarcacion, Salta</p>
                     <p className="text-muted-foreground">--------------------</p>
-                    <p className="text-sm text-muted-foreground mt-1">Pichanal, Salta</p>
+                    <p className="text-sm text-muted-foreground mt-1">Tartagal, Salta</p>
                   </div>
                 </div>
               </CardContent>

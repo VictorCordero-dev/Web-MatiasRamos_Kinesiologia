@@ -106,7 +106,7 @@ export function ContactSection() {
                   <Instagram className="w-6 h-6 text-red-500" />
                 </a>
                 <a
-                  href="https://facebook.com/matias.ramos1"
+                  href="https://www.facebook.com/people/Quiropraxia-Matias-Ramos/100054236870284/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-blue-500/10 rounded-full flex items-center justify-center hover:bg-accent/20 transition-colors"
@@ -114,7 +114,7 @@ export function ContactSection() {
                   <Facebook className="w-6 h-6 text-blue-500" />
                 </a>
                 <a
-                  href="https://tiktok.com/@quiropraxiamatiasramos"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-gray-900/20 rounded-full flex items-center justify-center hover:bg-accent/20 transition-colors"

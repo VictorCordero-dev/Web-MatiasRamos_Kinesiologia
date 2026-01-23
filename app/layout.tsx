@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'KINESIOLOGIA',
-  description: 'Created for Victor Cordero',
+  description: '',
 }
 
 export default function RootLayout({

@@ -43,7 +43,7 @@ export function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contacto</h4>
             <ul className="space-y-2 text-primary-foreground/80">
-              <li>+54 3878687637</li>
+              <li>+54 3878525806</li>
               <li>Carlos Pellegrini 758</li>
               <li>Sede Oran, Salta</li>
             </ul>
